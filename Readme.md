@@ -1,4 +1,7 @@
-![image](https://anahanaflower.com/collections/bear-flower-dome)
+
+<img src = "https://cdn.shopify.com/s/files/1/0107/8725/8464/files/Arrangements_Banner_2.png?v=1619425868">
+
+</br>
 
 <p align="center">
     <Strong>"안녕하세요👋 </br> AI 개발자를 지향하는 권석원입니다."</Strong><br>
@@ -33,7 +36,13 @@
 <a href="https://www.notion.so/Profile-88e88b5097f14def87fba4993575cf11"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p> 
 
+</br>
 
+<div align=center>
+
+![dhjkl123's github stats](https://github-readme-stats.vercel.app/api?username=dhjkl123&show_icons=true)
+
+</div>
 
 
 
