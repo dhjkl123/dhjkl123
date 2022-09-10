@@ -1,24 +1,17 @@
-### "안녕하세요👋 </br> AI 개발자를 지향하는 권석원입니다."
+![image](https://anahanaflower.com/collections/bear-flower-dome)
 
+<p align="center">
+    <Strong>"안녕하세요👋 </br> AI 개발자를 지향하는 권석원입니다."</Strong><br>
 
-## 👩‍💻Career (총 2년 3개월)
+</p>
 
-`2020.02~2022.05` 주인정보시스템 기술연구소 (윈도우즈 응용프로그램 개발)  
+</br>
 
-## **🎓 Education**
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+</p>
 
-`2022` KT Aivle School 2기 AI 트랙 수강 중
-
-`2021` 더조은아이티아카데미학원 C,C++프로그래밍 수료
-
-`2020` 선문대학교 정보통신공학과 졸업
-
-## 🧾Certificate
-
-`2019` 정보처리기사 취득
-
-## 📝 Stack
-
+<p align="center" display="inline-block">
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
@@ -28,13 +21,19 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>   
+</p> 
 
+</br>
 
-
-
-
-
-## Blog
-
+<p align="center">
+    <Strong>🔗Link🔗</Strong><br>
+</p>
+<p align="center" display="inline-block">
 <a href="https://dhjkl123.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.notion.so/Profile-88e88b5097f14def87fba4993575cf11"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</p> 
+
+
+
+
 
