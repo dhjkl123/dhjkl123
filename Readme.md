@@ -34,7 +34,7 @@
 </p>
 <p align="center" display="inline-block">
 <a href="https://dhjkl123.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.notion.so/Profile-88e88b5097f14def87fba4993575cf11"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://climbing-seeder-99b.notion.site/Profile-88e88b5097f14def87fba4993575cf11"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p> 
 
 </br>
