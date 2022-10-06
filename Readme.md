@@ -39,11 +39,6 @@
 
 </br>
 
-<div align=center>
-
-![dhjkl123's github stats](https://github-readme-stats.vercel.app/api?username=dhjkl123&show_icons=true)
-
-</div>
 
 
 
