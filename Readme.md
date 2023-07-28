@@ -2,12 +2,6 @@
 <img src = "https://cdn.shopify.com/s/files/1/0107/8725/8464/files/Arrangements_Banner_2.png?v=1619425868">
 
 </br>
-
-<p align="center">
-    <Strong>"안녕하세요👋 </br> AI 개발자를 지향하는 권석원입니다."</Strong><br>
-
-</p>
-
 </br>
 
 <p align="center">
